@@ -1,0 +1,11 @@
+{
+  "name": "mime",
+  "description": "mime type map / lookup",
+  "version": "0.0.1",
+  "keywords": ["mime", "type", "utility"],
+  "dependencies": {},
+  "scripts": [
+    "index.js",
+    "types.js"
+  ]
+}
