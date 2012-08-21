@@ -4,5 +4,10 @@
   "devDependencies": {
     "mocha": "*",
     "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "mime": "index.js"
+    }
   }
 }
