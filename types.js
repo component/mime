@@ -1,4 +1,7 @@
-module.exports = { '123': 'application/vnd.lotus-1-2-3',
+module.exports = {
+  nef: 'image/x-nikon-nef',
+  dng: 'image/x-adobe-dng',
+  '123': 'application/vnd.lotus-1-2-3',
   ez: 'application/andrew-inset',
   aw: 'application/applixware',
   atom: 'application/atom+xml',
