@@ -10,5 +10,9 @@
       "mime/index.js": "index.js",
       "mime/types.js": "types.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/mime.git"
   }
 }
